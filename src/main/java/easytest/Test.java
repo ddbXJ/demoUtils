@@ -1,5 +1,8 @@
 package easytest;
 
+import util.io.Print;
+import util.prop.PropHelper;
+
 import java.util.Arrays;
 import java.util.Optional;
 
@@ -8,6 +11,6 @@ import java.util.Optional;
  */
 public class Test {
     public static void main(String[] a) throws Exception{
-
+        Print.ln(PropHelper.PROPERTIES.getProperty("name"));
     }
 }

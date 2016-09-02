@@ -1,13 +1,11 @@
 package image;
 
-import io.IOUtil;
+import util.io.IOUtil;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
 import java.io.File;
-import java.io.FileInputStream;
 
 /**
  * Created by lixuejiao on 16/9/1.

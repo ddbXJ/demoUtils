@@ -1,4 +1,4 @@
-package io;
+package util.io;
 
 /**
  * Created by lixuejiao on 16/9/2.

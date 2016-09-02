@@ -1,6 +1,6 @@
-package time;
+package util.time;
 
-import io.Print;
+import util.io.Print;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
